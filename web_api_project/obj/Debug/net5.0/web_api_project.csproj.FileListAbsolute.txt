@@ -1,0 +1,7 @@
+C:\Users\patrick\Source\Repos\patrick-meditz\cloud_computing_project\web_api_project\obj\Debug\net5.0\web_api_project.csproj.AssemblyReference.cache
+C:\Users\patrick\Source\Repos\patrick-meditz\cloud_computing_project\web_api_project\obj\Debug\net5.0\web_api_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick\Source\Repos\patrick-meditz\cloud_computing_project\web_api_project\obj\Debug\net5.0\web_api_project.AssemblyInfoInputs.cache
+C:\Users\patrick\Source\Repos\patrick-meditz\cloud_computing_project\web_api_project\obj\Debug\net5.0\web_api_project.AssemblyInfo.cs
+C:\Users\patrick\Source\Repos\patrick-meditz\cloud_computing_project\web_api_project\obj\Debug\net5.0\web_api_project.csproj.CoreCompileInputs.cache
+C:\Users\patrick\Source\Repos\patrick-meditz\cloud_computing_project\web_api_project\obj\Debug\net5.0\web_api_project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\patrick\Source\Repos\patrick-meditz\cloud_computing_project\web_api_project\obj\Debug\net5.0\web_api_project.MvcApplicationPartsAssemblyInfo.cache

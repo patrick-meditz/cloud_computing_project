@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/patrick/Projects/web_api_project/web_api_project/web_api_project.csproj": {}
+    "C:\\Users\\patrick\\source\\repos\\patrick-meditz\\cloud_computing_project\\web_api_project\\web_api_project.csproj": {}
   },
   "projects": {
-    "/Users/patrick/Projects/web_api_project/web_api_project/web_api_project.csproj": {
+    "C:\\Users\\patrick\\source\\repos\\patrick-meditz\\cloud_computing_project\\web_api_project\\web_api_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/patrick/Projects/web_api_project/web_api_project/web_api_project.csproj",
+        "projectUniqueName": "C:\\Users\\patrick\\source\\repos\\patrick-meditz\\cloud_computing_project\\web_api_project\\web_api_project.csproj",
         "projectName": "web_api_project",
-        "projectPath": "/Users/patrick/Projects/web_api_project/web_api_project/web_api_project.csproj",
-        "packagesPath": "/Users/patrick/.nuget/packages/",
-        "outputPath": "/Users/patrick/Projects/web_api_project/web_api_project/obj/",
+        "projectPath": "C:\\Users\\patrick\\source\\repos\\patrick-meditz\\cloud_computing_project\\web_api_project\\web_api_project.csproj",
+        "packagesPath": "C:\\Users\\patrick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\patrick\\source\\repos\\patrick-meditz\\cloud_computing_project\\web_api_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/patrick/.config/NuGet/NuGet.Config"
+          "C:\\Users\\patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,9 +40,37 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.9.0, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.7.0, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.7.0, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.20.0, )"
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.1.4, )"
             }
           },
           "imports": [
@@ -61,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

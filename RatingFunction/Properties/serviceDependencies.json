@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights"
+    },
+    "secrets1": {
+      "type": "secrets"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "azurestoragecsmeditz"
+    },
+    "cosmosdb1": {
+      "type": "cosmosdb",
+      "connectionId": "azurecosmoscsmeditz"
+    }
+  }
+}

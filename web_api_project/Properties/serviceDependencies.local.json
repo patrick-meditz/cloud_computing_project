@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.KeyVault/vaults/cckeyvaultmeditz",
+      "type": "secrets.keyVault",
+      "connectionId": "VaultUri",
+      "secretStore": null
+    },
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/ccprojektstoragemeditz",
+      "type": "storage.azure",
+      "connectionId": "azurecsmeditz",
+      "secretStore": "AzureKeyVault"
+    },
+    "cosmosdb1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.DocumentDB/databaseAccounts/ccmeditzcosmosdb",
+      "type": "cosmosdb.azure",
+      "connectionId": "azurecsmeditzcosmos",
+      "secretStore": "AzureKeyVault"
+    }
+  }
+}

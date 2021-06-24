@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2021-06-21T19:57:21.5607814Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-06-21T19:57:06.0128557Z"
+    },
+    "cosmosdb1": {
+      "restored": true,
+      "restoreTime": "2021-06-21T19:58:47.4889207Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CCProjektMeditz"
+    },
+    "cosmosdb1.resourceGroupName": {
+      "Name": "cosmosdb1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CCProjektMeditz"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "8671e6d2-d604-4ee2-8a3f-37250672d27b"
+    },
+    "secrets1.resourceGroupName": {
+      "Name": "secrets1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "CCProjektMeditz"
+    },
+    "cosmosdb1.subscriptionId": {
+      "Name": "cosmosdb1.subscriptionId",
+      "Type": "subscription",
+      "Value": "8671e6d2-d604-4ee2-8a3f-37250672d27b"
+    },
+    "secrets1.subscriptionId": {
+      "Name": "secrets1.subscriptionId",
+      "Type": "subscription",
+      "Value": "8671e6d2-d604-4ee2-8a3f-37250672d27b"
+    }
+  }
+}
